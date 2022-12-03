@@ -1,0 +1,18 @@
+.form-center {
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    text-align: center;
+
+}
+
+.title-connect {
+    text-align: center;
+}
+
+.btn-close {
+    right: 0;
+    color: red;
+    background-color: red;
+
+}
